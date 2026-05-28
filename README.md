@@ -6,12 +6,6 @@ CSE-AI graduate who builds things with data and code. I turn messy datasets into
 
 ---
 
-## 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sukhesh0105&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🧰 What I Work With
 
 **Programming**
@@ -47,50 +41,63 @@ CSE-AI graduate who builds things with data and code. I turn messy datasets into
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects
 
-### 📦 [Smart Inventory & Demand Forecasting](https://github.com/sukhesh0105/slayteam-smart_inventory-hcl_hackathon) — *HCLTech Hackathon*
+### 📦 Smart Inventory & Demand Forecasting — *HCLTech Hackathon*
+> Demand forecasting + inventory analytics system built end-to-end under hackathon time pressure.
 
-- Analyzed **90 days of sales data** using Linear Regression and Moving Average forecasting models
-- Processed and monitored **100+ inventory records** using predictive analytics and trend analysis
-- Built an analytics dashboard with **5+ modules** — forecasting, inventory tracking, and sales insights visualization
-- Integrated **10+ REST APIs** to manage forecasting, sales analytics, inventory data, and alert systems
+| What | Detail |
+|---|---|
+| 📅 Data | 90 days of sales data analyzed with Linear Regression & Moving Average models |
+| 📦 Scale | 100+ inventory records processed using predictive analytics & trend analysis |
+| 🖥️ Dashboard | 5+ modules — forecasting, inventory tracking, sales insights visualization |
+| 🔌 Integration | 10+ REST APIs for forecasting, analytics, inventory data & alert systems |
+| 🎯 Outcome | Data-driven demand prediction, stock analysis & inventory optimization |
 
-`Python` `FastAPI` `MySQL` `Scikit-learn`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
-
-### 🤟 [Sign Language Detection](https://github.com/sukhesh0105)
-
-- Processed **21 hand landmark data points** using MediaPipe and OpenCV for gesture-based feature extraction
-- Trained a **Random Forest classifier** to recognize 4 predefined hand gestures with real-time prediction
-- Built a full preprocessing and feature extraction pipeline for webcam-based gesture recognition
-- Accessibility-focused real-time classification using computer vision and ML
-
-`Python` `OpenCV` `MediaPipe` `Scikit-learn`
+🔗 [View Repository](https://github.com/sukhesh0105/slayteam-smart_inventory-hcl_hackathon)
 
 ---
 
-### 🚛 [Predictive Delivery Optimizer](https://github.com/sukhesh0105/Predictive-Delivery-Optimizer)
+### 🤟 Sign Language Detection
+> Real-time hand gesture recognition system for accessibility — webcam in, prediction out.
 
-- AI-powered logistics dashboard that predicts delivery delays before they happen
-- Random Forest classifier on routes, carriers, vehicle fleets, and order history data
-- Interactive Streamlit UI with KPIs, feature importance analysis, and CSV bulk predictions
+| What | Detail |
+|---|---|
+| 🖐️ Input | 21 hand landmark data points via MediaPipe & OpenCV |
+| 🤖 Model | Random Forest classifier trained on 4 predefined hand gestures |
+| ⚡ Speed | Real-time prediction from live webcam feed |
+| ♿ Purpose | Accessibility-focused — bridges communication using computer vision |
+| 🔧 Pipeline | Full preprocessing + feature extraction built from scratch |
 
-`Python` `Scikit-learn` `Streamlit` `Plotly` `Pandas`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+🔗 [View Repository](https://github.com/sukhesh0105)
 
 ---
 
-## 📊 GitHub Stats
+### 🚛 Predictive Delivery Optimizer
+> AI-powered logistics dashboard that flags delivery delays before they happen.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhesh0105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhesh0105&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+| What | Detail |
+|---|---|
+| 🤖 Model | Random Forest classifier on routes, carriers, vehicle fleets & order history |
+| 📊 Dashboard | Interactive Streamlit UI with live KPIs & feature importance analysis |
+| 📁 Features | CSV bulk upload for batch delay predictions |
+| 🎯 Goal | Reduce operational blind spots in last-mile logistics |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sukhesh0105&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhesh0105&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+🔗 [View Repository](https://github.com/sukhesh0105/Predictive-Delivery-Optimizer)
 
 ---
 
